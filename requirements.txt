@@ -1,7 +1,6 @@
 fastapi
 uvicorn
 pytesseract
-opencv-python-headless
+opencv-python
 numpy
 Pillow
-python-multipart
